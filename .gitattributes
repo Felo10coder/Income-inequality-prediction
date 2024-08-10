@@ -1,0 +1,9 @@
+*.joblib,*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.toolkit/random.joblib filter=lfs diff=lfs merge=lfs -text
+*.toolkit/xgb.joblib filter=lfs diff=lfs merge=lfs -text
+*.toolkit/encoder.joblib filter=lfs diff=lfs merge=lfs -text
+toolkit filter=lfs diff=lfs merge=lfs -text
+toolkit/random.joblib filter=lfs diff=lfs merge=lfs -text
+toolkit/xgb.joblib filter=lfs diff=lfs merge=lfs -text
+toolkit/encoder.joblib filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
